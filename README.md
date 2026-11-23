@@ -20,7 +20,7 @@ For a customer profile with `age = 40`, `monthly_visits = 12`, `avg_order_value 
 - **Random Forest:** `2,554.50`
 - **Decision Tree:** `2,450.00`
 
-- ## Visualizations
+## Visualizations
 
 ### Model Comparison (Test Set)
 ![Model Comparison](model_comparison.png)
